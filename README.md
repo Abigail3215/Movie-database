@@ -130,3 +130,4 @@ def menu():
 if __name__ == "__main__":
     create_table()
     menu()
+![moviedatabase](https://github.com/user-attachments/assets/fc0ce037-ddb9-4e27-a687-f719cf374336)
